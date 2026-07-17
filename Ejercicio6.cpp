@@ -2,6 +2,7 @@
 using namespace std;
 
 // Prototipos de funciones
+
 void compararVariables(int numero1, int numero2);
 void bucleWhile(int numero1, int numero2);
 void bucleFor(int numero1, int numero2);

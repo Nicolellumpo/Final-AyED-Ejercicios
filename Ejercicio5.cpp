@@ -1,5 +1,4 @@
-/* 
-Ejercicio 5 
+/*  Ejercicio 5 
 
 Un programa, que multiplique 2 valores cualesquiera, le cambie el valor a uno de estos valores a 20 y luego imprima a todos los valores.
 Entonces, si lo  pensamos modularmente, tendríamos que tener:

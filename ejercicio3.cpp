@@ -3,8 +3,7 @@
 
 using namespace std;
 
-//practica de la unidad 2
-
+//Practica de la unidad 2
 
 int devolverC(){ // devolverC es una FUNCION
     return 'C';

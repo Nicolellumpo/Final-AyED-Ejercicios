@@ -3,7 +3,8 @@
 
 using namespace std;
 
-//practica de la unidad 1
+//Practica de la unidad 1
+// Declaración (prototipo) de la función
 
 int main(){
 

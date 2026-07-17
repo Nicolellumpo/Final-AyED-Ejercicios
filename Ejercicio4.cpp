@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+// Prueba de paso de parámetros por valor, referencia y puntero
 
 //-----------------------------------------por Valor----------------------------------------------
 void porValor(int x) {
